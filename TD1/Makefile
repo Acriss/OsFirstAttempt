@@ -13,7 +13,7 @@ EXE_PATH = exe
 INC_PATH = include
 
 # -- Macros ----------
-CC = g++
+CC = /Users/acris/Projects/Cours-ITR/OsFirstAttempt/ITR/Zed/cross/bin/arm-linux-g++
 
 # -- Flags ----------
 
